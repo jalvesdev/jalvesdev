@@ -50,7 +50,7 @@ Algumas dessas experiências eventualmente acabam se transformando em projetos p
 
 ## Contato
 
-Você pode conhecer melhor meu trabalho em **jalves.dev.br**.
+Você pode conhecer melhor meu trabalho em **<https://jalves.dev.br>**.
 
 Os projetos que considero mais relevantes estão destacados neste perfil.
 
